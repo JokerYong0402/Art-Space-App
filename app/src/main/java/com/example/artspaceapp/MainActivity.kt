@@ -169,7 +169,7 @@ fun paginate(currentPic: Int, action: Int): Int{
     val result = when (nextPic) {
         0 -> 1
         8 -> 7
-        else -> return currentPic + action
+        else -> nextPic
     }
 
     return result
