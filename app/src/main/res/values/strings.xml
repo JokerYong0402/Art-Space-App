@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Art Space App</string>
+    <string name="art1">A Literary Escape</string>
+    <string name="art2">Nighttime Window</string>
+    <string name="art3">Suitcase Dreams</string>
+    <string name="art4">Friends</string>
+    <string name="art5">Country Comfort</string>
+    <string name="art6">Bridge to the Future</string>
+    <string name="art7">A Moment of Peace</string>
+    <string name="artist">acornzzi</string>
+</resources>
